@@ -1,0 +1,9 @@
+yt-dlp>=2023.12.30
+openai-whisper>=20231117
+transformers>=4.35.0
+torch>=2.0.0
+gtts>=2.5.1
+pydub>=0.25.1
+tqdm>=4.66.0
+requests>=2.31.0
+ollama>=0.2.0
